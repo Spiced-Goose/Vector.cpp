@@ -1,3 +1,3 @@
 # Vector
-.cpp file for handwritten vector class
+.cpp &.h files for handwritten vector class
 A quick school project
